@@ -1,4 +1,38 @@
 {
   "github_id": 264760266,
-  "github_login": "israincloud"
+  "github_login": "israincloud",
+  "schema_version": 1,
+  "level": 1,
+  "experience": 0,
+  "contributions": [],
+  "promotions": [
+    {
+      "id": "registration-94",
+      "from": 0,
+      "to": 1,
+      "policy": {
+        "id": "2026.v2",
+        "sha": "67501ff31a14a5510d1632013f187e9374143b33"
+      },
+      "proof": {
+        "source": {
+          "kind": "registration",
+          "pr": 94
+        },
+        "actor": 264760266,
+        "at": "2026-10-28T15:56:34Z",
+        "digest": "3c2e4f3f254df36a848f7bffdeb77dbfc9a0ca47376baa790f6fe3b4325074b7",
+        "details": "{\"registration_pr\":\"https://github.com/processmission-intern/mission-forge/pull/94\",\"merge_commit\":\"2033cf14775055456293bee5fe7d2fea0693da79\"}"
+      },
+      "reason": "Identity registration PR merged.",
+      "evidence": [],
+      "review_pr": null
+    }
+  ],
+  "adjustments": [],
+  "last_event": {
+    "kind": "registration",
+    "pr": 94
+  },
+  "updated_at": "2026-10-28T15:56:34Z"
 }
